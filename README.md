@@ -5,7 +5,7 @@
 
 
 
-- [TITS2022] Wheel-INS2: Multiple {MEMS IMU}-Based Dead Reckoning System With Different Configurations for Wheeled Robots [[paper](https://arxiv.org/abs/2012.10593)][[code](https://github.com/i2Nav-WHU/Wheel-INS)]
+- [T-RO2021] ORB-SLAM3: Multiple {MEMS IMU}-Based Dead Reckoning System With Different Configurations for Wheeled Robots [[paper](https://arxiv.org/abs/2012.10593)][[code](https://github.com/i2Nav-WHU/Wheel-INS)]
 
 - [ROBIO2022] Robust optimization-based fusion of GNSS and Visual-Inertial-Wheel Odometry [[paper](https://ieeexplore.ieee.org/abstract/document/10011839)]
 
