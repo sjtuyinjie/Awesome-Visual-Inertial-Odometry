@@ -1,14 +1,8 @@
 # Awesome-Visual-Inertial-Odometry
 
 ## 📝 Introduction
-
-
-
-
-- [T-RO2021] ORB-SLAM3: Multiple {MEMS IMU}-Based Dead Reckoning System With Different Configurations for Wheeled Robots [[paper](https://arxiv.org/abs/2012.10593)][[code](https://github.com/i2Nav-WHU/Wheel-INS)]
-
-- [ROBIO2022] Robust optimization-based fusion of GNSS and Visual-Inertial-Wheel Odometry [[paper](https://ieeexplore.ieee.org/abstract/document/10011839)]
-
+- [T-RO2021] ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM [[paper](https://arxiv.org/abs/2007.11898)][[code](https://github.com/UZ-SLAMLab/ORB_SLAM3)]
+- [T-RO2018] VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator [[paper](https://arxiv.org/abs/1708.03852)][[code](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)]
 
 TBD
 
