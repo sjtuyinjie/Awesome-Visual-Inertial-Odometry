@@ -6,9 +6,9 @@
 
 - [RA-L2024] iSLAM: Imperative SLAM [[paper](https://arxiv.org/pdf/2306.07894)][[code](https://github.com/sair-lab/iSLAM)]
 
-- [RA-L2023] High-Speed Stereo Visual SLAM for Low-Powered Computing Devices [[paper](https://arxiv.org/abs/2410.04090)][[code](https://github.com/ashishkumar822/Jetson-SLAM)]
-
 - [ICRA2024] DVI-SLAM: A Dual Visual Inertial SLAM Network [[paper](https://arxiv.org/pdf/2309.13814)]
+
+- [RA-L2023] High-Speed Stereo Visual SLAM for Low-Powered Computing Devices [[paper](https://arxiv.org/abs/2410.04090)][[code](https://github.com/ashishkumar822/Jetson-SLAM)]
 
 - [IROS2023] AirVO: An Illumination-Robust Point-Line Visual Odometry [[paper](https://arxiv.org/abs/2212.07595)][[code](https://github.com/sair-lab/AirSLAM/tree/airvo_iros)]
 
