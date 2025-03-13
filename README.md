@@ -2,7 +2,13 @@
 
 ## 📝 Introduction
 
+- [T-RO2025] AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System [[paper](https://arxiv.org/pdf/2408.03520)][[code](https://github.com/sair-lab/AirSLAM.git)]
+
+- [IROS2023] AirVO: An Illumination-Robust Point-Line Visual Odometry [[paper](https://arxiv.org/abs/2212.07595)][[code](https://github.com/sair-lab/AirSLAM/tree/airvo_iros)]
+
 - [RA-L2022] DM-VIO: Delayed Marginalization Visual-Inertial Odometry [[paper](https://arxiv.org/abs/2201.04114)][[code](https://github.com/lukasvst/dm-vio)]
+
+- [NeurIPS2021] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras [[paper](https://arxiv.org/abs/2108.10869)][[code](https://github.com/princeton-vl/DROID-SLAM.git)]
   
 - [T-RO2021] ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM [[paper](https://arxiv.org/abs/2007.11898)][[code](https://github.com/UZ-SLAMLab/ORB_SLAM3)]
   
