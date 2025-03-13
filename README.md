@@ -6,6 +6,8 @@
 
 - [RA-L2024] iSLAM: Imperative SLAM [[paper](https://arxiv.org/pdf/2306.07894)][[code](https://github.com/sair-lab/iSLAM)]
 
+- [RA-L2023] High-Speed Stereo Visual SLAM for Low-Powered Computing Devices [[paper](https://arxiv.org/abs/2410.04090)][[code](https://github.com/ashishkumar822/Jetson-SLAM)]
+
 - [ICRA2024] DVI-SLAM: A Dual Visual Inertial SLAM Network [[paper](https://arxiv.org/pdf/2309.13814)]
 
 - [IROS2023] AirVO: An Illumination-Robust Point-Line Visual Odometry [[paper](https://arxiv.org/abs/2212.07595)][[code](https://github.com/sair-lab/AirSLAM/tree/airvo_iros)]
@@ -27,6 +29,8 @@
 - [ICRA2020] Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping [[paper](https://arxiv.org/abs/1910.02490)][[code](https://github.com/MIT-SPARK/Kimera-VIO)
 
 - [ICRA2020] Openvins: A research platform for visual-inertial estimation [[paper](https://ieeexplore.ieee.org/abstract/document/9196524)][[code](https://github.com/rpng/open_vins)]
+
+- [arXiv2020] PL-VINS: Real-time monocular visual-inertial SLAM with point and line features [[paper](https://arxiv.org/pdf/2009.07462)][[code](https://github.com/cnqiangfu/PL-VINS)]
   
 - [T-RO2019] StructVIO : Visual-inertial Odometry with Structural Regularity of Man-made Environments [[paper](https://arxiv.org/abs/1810.06796)][[code](https://github.com/danping/structvio)]
 
