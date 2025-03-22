@@ -26,7 +26,7 @@
   
 - [T-RO2021] ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM [[paper](https://arxiv.org/abs/2007.11898)][[code](https://github.com/UZ-SLAMLab/ORB_SLAM3)]
 
-- [ICRA2020] Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping [[paper](https://arxiv.org/abs/1910.02490)][[code](https://github.com/MIT-SPARK/Kimera-VIO)
+- [ICRA2020] Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping [[paper](https://arxiv.org/abs/1910.02490)][[code](https://github.com/MIT-SPARK/Kimera-VIO)]
 
 - [ICRA2020] Openvins: A research platform for visual-inertial estimation [[paper](https://ieeexplore.ieee.org/abstract/document/9196524)][[code](https://github.com/rpng/open_vins)]
 
