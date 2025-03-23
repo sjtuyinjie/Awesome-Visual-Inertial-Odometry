@@ -38,9 +38,9 @@
   
 - [T-RO2018] VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator [[paper](https://arxiv.org/abs/1708.03852)][[code](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)]
   
-- [RA-L2018] Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight [[paper](https://arxiv.org/abs/1712.00036)][[code](https://github.com/KumarRobotics/msckf_vio)]
+- [RA-L2018] Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight [[paper](https://arxiv.org/abs/1712.00036)][[code](https://github.com/KumarRobotics/msckf_vio)]——Stereo 
   
-- [ACCV2018] CubemapSLAM: A piecewise-pinhole monocular fisheye SLAM system [[paper](https://arxiv.org/abs/1811.12633)][[code](https://github.com/nkwangyh/CubemapSLAM)]
+- [ACCV2018] CubemapSLAM: A piecewise-pinhole monocular fisheye SLAM system [[paper](https://arxiv.org/abs/1811.12633)][[code](https://github.com/nkwangyh/CubemapSLAM)] ——VO
 
 - [IJRR2015] OKVIS: open keyframe-based visual-inertial SLAM [[paper](https://www.doc.ic.ac.uk/~sleutene/publications/ijrr2014_revision_1.pdf)][[code](https://github.com/ethz-asl/okvis)]
 
