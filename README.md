@@ -2,6 +2,8 @@
 
 ## 📝 Introduction
 
+- [ICRA2025] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry [[paper](https://arxiv.org/abs/2409.09479v2)][[code](https://github.com/MAC-VO/MAC-VO)] -- Stereo
+
 - [T-RO2025] AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System [[paper](https://arxiv.org/pdf/2408.03520)][[code](https://github.com/sair-lab/AirSLAM.git)] -- Stereo + IMU
 
 - [RA-L2024] iSLAM: Imperative SLAM [[paper](https://arxiv.org/pdf/2306.07894)][[code](https://github.com/sair-lab/iSLAM)] -- Stereo + IMU
